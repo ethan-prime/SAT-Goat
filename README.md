@@ -2,6 +2,25 @@
 ## The SAT Goat app was develop by me for the TI-84 calculator. From what my students have said (I'm an SAT tutor), it's helped them a lot on the Calculator portion of the SAT; and yes, it's allowed!
 
 # Installation Guide
+### 1. Download the program [here.](https://www.mediafire.com/file/c3ng1tl0d0qty0u/SATGOAT.8xp/file)
+### 2. Download the TI-Connect CE Software [here.](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware)
+### 3. Once TI-Connect CE is downloaded, launch the program and follow the on-screen steps to install it.
+### 4. Launch the TI-Connect CE Software.
+### 5. Plug in your TI-84 to your computer via the charging USB.
+### 6. On the sidebar, click the three squares to open the Programs tab, then select "Open Program"
+![Desktop Screenshot 2022 10 29 - 19 37 04 13](https://user-images.githubusercontent.com/86028835/198857582-709bce89-bc91-4f65-a78f-fd9c9950b456.jpg)
+### 7. Navigate to the SATGOAT.8xp file and open it.
+### 8. Click the "Send program to connected calulators" button.
+![Desktop Screenshot 2022 10 29 - 19 39 06 51](https://user-images.githubusercontent.com/86028835/198857610-719aa57f-e217-42c0-99d4-fc1170ed1e13.jpg)
+### 9. Click "Send" button.
+![Desktop Screenshot 2022 10 29 - 19 40 27 75](https://user-images.githubusercontent.com/86028835/198857711-0a05e0e6-1c1a-48f7-9080-662c8d0b9f2e.jpg)
+
+
+# How to Launch App on Calculator
+### Select prgm key on TI-84.
+### Make sure you are under the "EXEC" category.
+### Select "SATGOAT" app.
+### Now click enter to run the program.
 
 # Usage/Examples
 # Home: All Categories/Functions
@@ -32,7 +51,7 @@
 ![Desktop Screenshot 2022 10 29 - 18 37 48 43 (2)](https://user-images.githubusercontent.com/86028835/198856367-84c28694-25cb-424c-aadc-9bfe4bc9bd3c.png)
 
 # Quadratics
-## Here, you can find out a lot of information about quadratics, including coverting to vertex form (which happens to randomly appear on the SAT and people, including me forget how to do it). Choose which form of quadratic you are given and follow the prompts and, voila! You now know everything you need to know about that quadratic equation!
+## Here, you can find out a lot of information about quadratics, including coverting to vertex form (which happens to randomly appear on the SAT and people, including me, forget how to do it). Choose which form of quadratic you are given and follow the prompts and, voila! You now know everything you need to know about that quadratic equation!
 ![Desktop Screenshot 2022 10 29 - 18 43 14 97 (2)](https://user-images.githubusercontent.com/86028835/198856467-3b99ce69-a6f3-42b1-b128-cd77d734b608.png)
 ![Desktop Screenshot 2022 10 29 - 18 23 21 57 (2)](https://user-images.githubusercontent.com/86028835/198856472-fe28299b-7f5d-4742-b7a9-156e9247126e.png)
 
@@ -42,3 +61,5 @@
 ![Desktop Screenshot 2022 10 29 - 19 06 10 40 (2)](https://user-images.githubusercontent.com/86028835/198856939-bb6a04d2-48f0-4458-9367-fde8ac338ac3.png)
 ![Desktop Screenshot 2022 10 29 - 19 06 14 40 (2)](https://user-images.githubusercontent.com/86028835/198856941-fef0468e-9f5f-454d-ba4e-0896a712a7af.png)
 
+# Reset Graph
+## Used to reset the graph window. Useful if you are going into panic mode and the program has messed with your graph view.
