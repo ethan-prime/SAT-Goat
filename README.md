@@ -64,5 +64,5 @@
 ![Desktop Screenshot 2022 10 29 - 19 06 10 40 (2)](https://user-images.githubusercontent.com/86028835/198856939-bb6a04d2-48f0-4458-9367-fde8ac338ac3.png)
 ![Desktop Screenshot 2022 10 29 - 19 06 14 40 (2)](https://user-images.githubusercontent.com/86028835/198856941-fef0468e-9f5f-454d-ba4e-0896a712a7af.png)
 
-# Reset Graph
+# Reset Graph (CE Version Only)
 ## Used to reset the graph window. Useful if you are going into panic mode and the program has messed with your graph view.
