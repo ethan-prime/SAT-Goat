@@ -3,8 +3,8 @@
 ### Disclaimer: The TI-84 Plus Monochrome version is a bit buggy due to some weird quirks. It still functions, but be wary it may be a bit more buggy and less aesthetically pleasing than the TI-84 Plus CE version. 
 # Installation Guide
 ### 1. Download the program below:  
-### [TI-84 Plus CE (COLOR EDITION)](https://github.com/ethan-prime/SAT-Goat-TI84/blob/main/versions/SATGOAT%20(84-CE).8xp)
-### [TI-84 PLUS (MONOCHROME)](https://github.com/ethan-prime/SAT-Goat-TI84/blob/main/versions/SATGOAT%20(84-MONO).8xp)
+### [TI-84 Plus CE (COLOR EDITION)](https://github.com/ethan-prime/SAT-Goat-TI84/blob/main/versions/SATGOAT%20(84-CE).8xp?raw=true)
+### [TI-84 PLUS (MONOCHROME)](https://github.com/ethan-prime/SAT-Goat-TI84/blob/main/versions/SATGOAT%20(84-MONO).8xp?raw=true)
 ### 2. Download the TI-Connect CE Software [here.](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware)
 ### 3. Once TI-Connect CE is downloaded, launch the program and follow the on-screen steps to install it.
 ### 4. Launch the TI-Connect CE Software.
