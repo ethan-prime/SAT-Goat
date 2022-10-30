@@ -1,5 +1,5 @@
 # SAT Goat Calculator Program
-## The SAT Goat app was develop by me for the TI-84 calculator. From what my students have said (I'm an SAT tutor), it's helped them a lot on the Calculator portion of the SAT; and yes, it's allowed!
+## The SAT Goat app was develop by me for the TI-84 calculator. From what my students have said (I'm an SAT tutor), it's helped them a lot on the Calculator portion of the SAT, and yes, it's allowed!
 ### Disclaimer: The TI-84 Plus Monochrome version is a bit buggy due to some weird quirks. It still functions, but be wary it may be a bit more buggy and less aesthetically pleasing than the TI-84 Plus CE version. 
 # Installation Guide
 ## Disclaimer: If you are trying to install this on a TI-83 Plus, please visit [this link.](https://github.com/ethan-prime/SAT-Goat/blob/main/83/README.md)
