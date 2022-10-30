@@ -51,12 +51,13 @@
 ![Desktop Screenshot 2022 10 29 - 18 37 48 43 (2)](https://user-images.githubusercontent.com/86028835/198856367-84c28694-25cb-424c-aadc-9bfe4bc9bd3c.png)
 
 # Quadratics
-## Here, you can find out a lot of information about quadratics, including coverting to vertex form (which happens to randomly appear on the SAT and people, including me, forget how to do it). Choose which form of quadratic you are given and follow the prompts and, voila! You now know everything you need to know about that quadratic equation!
+## Here, you can find out a lot of information about quadratics, including coverting to vertex form (which happens to randomly appear on the SAT and people, including me, forget how to do it) and to standard form from vertex form (even to both from factored form!). Choose which form of quadratic you are given and follow the prompts and, voila! You now know everything you need to know about that quadratic equation!
 ![Desktop Screenshot 2022 10 29 - 18 43 14 97 (2)](https://user-images.githubusercontent.com/86028835/198856467-3b99ce69-a6f3-42b1-b128-cd77d734b608.png)
 ![Desktop Screenshot 2022 10 29 - 18 23 21 57 (2)](https://user-images.githubusercontent.com/86028835/198856472-fe28299b-7f5d-4742-b7a9-156e9247126e.png)
 
 # Circles
 ## Here, you can find some various information about circles, including their equation! How helpful.
+![Desktop Screenshot 2022 10 29 - 19 49 23 55](https://user-images.githubusercontent.com/86028835/198857795-bfe460ce-3db0-490b-a225-21cc4a4dcc0c.png)
 ### Here's an example of finding the equation for a circle given standard form:
 ![Desktop Screenshot 2022 10 29 - 19 06 10 40 (2)](https://user-images.githubusercontent.com/86028835/198856939-bb6a04d2-48f0-4458-9367-fde8ac338ac3.png)
 ![Desktop Screenshot 2022 10 29 - 19 06 14 40 (2)](https://user-images.githubusercontent.com/86028835/198856941-fef0468e-9f5f-454d-ba4e-0896a712a7af.png)
