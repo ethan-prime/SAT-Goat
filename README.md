@@ -2,9 +2,10 @@
 ## The SAT Goat app was develop by me for the TI-84 calculator. From what my students have said (I'm an SAT tutor), it's helped them a lot on the Calculator portion of the SAT; and yes, it's allowed!
 ### Disclaimer: The TI-84 Plus Monochrome version is a bit buggy due to some weird quirks. It still functions, but be wary it may be a bit more buggy and less aesthetically pleasing than the TI-84 Plus CE version. 
 # Installation Guide
+## Disclaimer: If you are trying to install this on a TI-83 Plus, please visit [this link.](https://github.com/ethan-prime/SAT-Goat/blob/main/83/README.md)
 ### 1. Download the program below:  
 ### [For TI-84 Plus CE (COLOR EDITION)](https://github.com/ethan-prime/SAT-Goat-TI84/blob/main/versions/SATGOAT%20(84-CE).8xp?raw=true)
-### [For TI-84 PLUS (MONOCHROME)](https://github.com/ethan-prime/SAT-Goat-TI84/blob/main/versions/SATGOAT%20(84-MONO).8xp?raw=true)
+### [For TI-84 Plus (MONOCHROME) and TI-83 Plus](https://github.com/ethan-prime/SAT-Goat-TI84/blob/main/versions/SATGOAT%20(84-MONO).8xp?raw=true)
 ### 2. Download the TI-Connect CE Software [here.](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware)
 ### 3. Once TI-Connect CE is downloaded, launch the program and follow the on-screen steps to install it.
 ### 4. Launch the TI-Connect CE Software.
