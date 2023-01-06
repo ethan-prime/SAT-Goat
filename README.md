@@ -40,9 +40,12 @@
 ![Desktop Screenshot 2022 10 29 - 18 20 31 49 (2)](https://user-images.githubusercontent.com/86028835/198856236-f6eea69b-08fe-4578-9411-e1ba9d72b649.png)
 
 # Systems of Equations
-## Here, you can solve systems of equations that are in the form:  
+## Here, you can solve systems of equations:  
+## Standard Form: 
 ### $Ax + By = C$  
 ### $Dx + Ey = F$
+## Non-standard Form:
+### Literally any other equation (almost). Visit [this link](https://github.com/ethan-prime/SAT-Goat/releases/tag/v0.2.0) for more information.
 ![Desktop Screenshot 2022 10 29 - 18 20 55 99 (2)](https://user-images.githubusercontent.com/86028835/198856286-88079bc4-bdec-46ba-8b92-a8ebf7ae5f39.png)
 ![Desktop Screenshot 2022 10 29 - 18 20 58 11 (2)](https://user-images.githubusercontent.com/86028835/198856288-0330bfa1-3ed7-47c2-bd4b-63966e241690.png)
 
