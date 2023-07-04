@@ -1,5 +1,5 @@
 # SAT Goat Calculator Program [![Github All Releases](https://img.shields.io/github/downloads/ethan-prime/SAT-Goat/total.svg)]()
-## I developed the SAT Goat app for the TI-84 calculator. Yes, it's allowed.
+## Yes, this is allowed.
 ### Disclaimer: The TI-84 Plus Monochrome version is a bit buggy due to some weird quirks. It still functions, but be wary it may be a bit more buggy and less aesthetically pleasing than the TI-84 Plus CE version. 
 # Installation Guide
 ## Disclaimer: If you are trying to install this on a TI-83 Plus, please visit [this link.](https://github.com/ethan-prime/SAT-Goat/blob/main/83/README.md)
