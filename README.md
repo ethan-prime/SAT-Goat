@@ -15,16 +15,16 @@
 ### 6. On the sidebar, click the three squares to open the Programs tab, then select "Open Program"
 ![Desktop Screenshot 2022 10 29 - 19 37 04 13](https://user-images.githubusercontent.com/86028835/198857582-709bce89-bc91-4f65-a78f-fd9c9950b456.jpg)
 ### 7. Navigate to the SATGOAT.8xp file and open it.
-### 8. Click the "Send program to connected calulators" button.
+### 8. Click the "Send program to connected calculators" button.
 ![Desktop Screenshot 2022 10 29 - 19 39 06 51](https://user-images.githubusercontent.com/86028835/198857610-719aa57f-e217-42c0-99d4-fc1170ed1e13.jpg)
-### 9. Click "Send" button.
+### 9. Click the "Send" button.
 ![Desktop Screenshot 2022 10 29 - 19 40 27 75](https://user-images.githubusercontent.com/86028835/198857711-0a05e0e6-1c1a-48f7-9080-662c8d0b9f2e.jpg)
 
 
 # How to Launch App on Calculator
-### Select prgm key on TI-84.
+### Select the prgm key on TI-84.
 ### Make sure you are under the "EXEC" category.
-### Select "SATGOAT" app.
+### Select the "SATGOAT" app.
 ### Now click enter to run the program.
 
 # Usage/Examples
@@ -52,14 +52,14 @@
 ![Desktop Screenshot 2022 10 29 - 18 20 58 11 (2)](https://user-images.githubusercontent.com/86028835/198856288-0330bfa1-3ed7-47c2-bd4b-63966e241690.png)
 
 # Factor Polynomials
-## Here, you can factor polynomials. It will prompt you for some information of the polynomial such as the highest exponent (degree) and the coefficients. 
+## Here, you can factor polynomials. It will prompt you for some information about the polynomial such as the highest exponent (degree) and the coefficients. 
 ## Below are some various factored polynomials. 
 ![Desktop Screenshot 2022 10 29 - 18 22 56 71 (2)](https://user-images.githubusercontent.com/86028835/198856359-c3763dde-4a57-495d-9ee5-0785ab60c8f4.png)
 ![Desktop Screenshot 2022 10 29 - 18 36 23 02 (2)](https://user-images.githubusercontent.com/86028835/198856364-e2ac9df4-5017-4fbb-bc46-27a00b787930.png)
 ![Desktop Screenshot 2022 10 29 - 18 37 48 43 (2)](https://user-images.githubusercontent.com/86028835/198856367-84c28694-25cb-424c-aadc-9bfe4bc9bd3c.png)
 
 # Quadratics
-## Here, you can find out a lot of information about quadratics, including coverting to vertex form (which happens to randomly appear on the SAT and people, including me, forget how to do it) and to standard form from vertex form (even to both from factored form!). Choose which form of quadratic you are given and follow the prompts and, voila! You now know everything you need to know about that quadratic equation!
+## Here, you can find out a lot of information about quadratics, including converting to vertex form (which happens to randomly appear on the SAT and people, including me, forget how to do it) and to standard form from vertex form (even to both from factored form!). Choose which form of quadratic you are given and follow the prompts and, voila! You now know everything you need to know about that quadratic equation!
 ![Desktop Screenshot 2022 10 29 - 18 43 14 97 (2)](https://user-images.githubusercontent.com/86028835/198856467-3b99ce69-a6f3-42b1-b128-cd77d734b608.png)
 ![Desktop Screenshot 2022 10 29 - 18 23 21 57 (2)](https://user-images.githubusercontent.com/86028835/198856472-fe28299b-7f5d-4742-b7a9-156e9247126e.png)
 
@@ -72,3 +72,18 @@
 
 # Reset Graph (CE Version Only)
 ## Used to reset the graph window. Useful if you are going into panic mode and the program has messed with your graph view.
+
+#Additional Information
+You may run into an archive error. This is usually because the SAT Goat is attempting to use a variable that has been archived on your calculator.
+![Capture2-1705875010542](https://github.com/RhysFonville/SAT-Goat/assets/22686438/b5283eca-b0d3-4e5c-b732-53f26d4d4758)
+
+You can fix this by un-archiving the variable that SAT Goat is trying to use. The simplest way to do this is by taking the following steps:
+
+1. On the error page, select the "Goto" option
+2. Once the calculator stops scrolling through the code, see what archived variable is being used. In this example image here, the variable would be E
+![Capture 3](https://github.com/RhysFonville/SAT-Goat/assets/22686438/617b3d55-dc36-43a9-a39f-d940630ef366)
+3. Press 2ND -> MEM
+4. Select the "UnArchive" option
+5. Enter the variable to be unarchived (the variable we saw in the code) and hit ENTER
+
+![Capture4-1705875410126](https://github.com/RhysFonville/SAT-Goat/assets/22686438/caea72f2-550a-4805-ac51-80762b9a4dfe)
