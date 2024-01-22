@@ -73,7 +73,7 @@
 # Reset Graph (CE Version Only)
 ## Used to reset the graph window. Useful if you are going into panic mode and the program has messed with your graph view.
 
-#Additional Information
+# Additional Information
 You may run into an archive error. This is usually because the SAT Goat is attempting to use a variable that has been archived on your calculator.
 ![Capture2-1705875010542](https://github.com/RhysFonville/SAT-Goat/assets/22686438/b5283eca-b0d3-4e5c-b732-53f26d4d4758)
 
